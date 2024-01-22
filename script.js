@@ -2,7 +2,7 @@ let div1 = document.createElement("div");
 div1.classList.add("div1Clas");
 let childEl =document.createElement("img");
 
-childEl.setAttribute("src", "https://rb.gy/ucvhsw");
+childEl.setAttribute("src", "https://img.freepik.com/premium-photo/cute-fluffy-young-anime-girl-generative-ai_755833-81.jpg");
 childEl.setAttribute("alt", "img");
 
 div1.appendChild(childEl);
